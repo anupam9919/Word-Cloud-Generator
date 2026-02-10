@@ -23,8 +23,8 @@ A versatile Python application that creates beautiful word cloud visualizations 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/anupam9919/word_cloud.git
-   cd word_cloud
+   git clone https://github.com/anupam9919/Word-Cloud-Generator.git
+   cd Word-Cloud-Generator
    ```
 
 2. **Install required dependencies:**
