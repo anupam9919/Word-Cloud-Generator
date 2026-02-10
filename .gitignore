@@ -135,6 +135,7 @@ Thumbs.db
 Desktop.ini
 
 # Project specific
+input.txt
 *.png
 *.jpg
 *.jpeg
